@@ -1,0 +1,403 @@
+<!DOCTYPE HTML>
+<html lang="zxx">
+   <head>
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+      <link rel="stylesheet" href="assets/css/animate.css">
+      <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+      <link rel="stylesheet" href="assets/bootstarp/bootstrap.min.css">
+      <link rel="stylesheet" href="assets/css/super-classes.css">
+      <link rel="stylesheet" href="assets/css/style.css">
+      <link rel="stylesheet" href="assets/css/custom-style.css">
+      <link rel="stylesheet" href="assets/css/mobile.css">
+      <title>The Anatomy of a Spear Phishing Attack | DPETruly Innovations LLC </title>
+   </head>
+   <body>
+      <!---header-and-banner-section-->
+      <div class="header-and-banner-con w-100">
+         <div class="header-and-banner-inner-con overlay-content">
+            <!--navbar-start-->
+
+            <!-- Header Section Start -->
+            <?php include("header.php"); ?>
+            <!-- Header Section End -->
+
+            <!--navbar-end-->
+            <!--banner-start-->
+            <section class="banner-main-con about-page-main-banner-con">
+               <div class="container">
+                  <div class="banner-con about-page-banner-con text-center">
+                     <div class="row wow slideInLeft" style="visibility: visible; animation-name: slideInLeft;">
+                        <div class="col-lg-12">
+                           <div class="about-page-banner-title">
+                              <h1>The Anatomy of a Spear Phishing Attack</h1>
+                              <div class="breadcrumb">
+                                 <ul class="">
+                                    <li><a href="index.html" class="text-white">Home</a> </li>
+                                    <li><a href="#" class="text-white">Blog</a> </li>
+                                    <li class="active" ><a href="#" class="text-white">Cybersecurity</a> </li>
+                                 </ul>
+                                 <!--breadcrumb-->
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </section>
+            <!--banner-end-->
+         </div>
+      </div>
+      <!---header-and-banner-section-->
+      <!-- ======================================== -->
+      <!-- ==========   {Single Post*}   ========== -->
+      <!-- ======================================== -->
+      <!--Header-->
+      <section class=" blog-posts">
+         <div class="container">
+            <div class="row">
+               <div class="col-xl-9 col-lg-9">
+                  <div id="blog" class="single-post01">
+                     <div class="post-item">
+                        <div class="post-item-wrap">
+                           <div class="post-image" data-aos="fade-up">
+                              <a href="#">
+                              <img  src="https://75d03c5f1bfbbbb9cc13-369a671ebb934b49b239e372822005c5.ssl.cf1.rackcdn.com/anatomy-spear-phishing-attack-how-hackers-build-targeted-attacks-and-theyre-so-effective-showcase_image-5-w-1968.jpg" class="img-fluid" alt="post-featured-img">
+                              </a>
+                              <!--post-image-->
+                           </div>
+                           <div class="post-item-description">
+                              <h2 class="font_weight_600">Overview</h2>
+                              <div class="post-meta">
+                                 <span class="post-meta-date color01"><i class="fa fa-calendar-o"></i>Aug 10, 2022</span>
+                                 <span class="post-meta-comments color01"><a href=""><i class="fa fa-comments-o"></i>1 Comments</a></span>
+                                 <span class="post-meta-category color01"><a href=""><i class="fa fa-tag"></i>Cybersecurity</a></span>
+                                 <div class="post-meta-share float-right">
+                                    <ul class="list-unstyled m-0">
+                                       <li class="d-inline-block align-top"><a href="#">
+                                          <i class="fab fa-facebook-square"></i>
+                                          </a>
+                                       </li>
+                                       <li class="d-inline-block align-top"><a href="#">
+                                          <i class="fab fa-twitter-square"></i>
+                                          </a>
+                                       </li>
+                                       <li class="d-inline-block align-top"><a href="#">
+                                          <i class="fab fa-instagram"></i>
+                                          </a>
+                                       </li>
+                                       <li class="d-inline-block align-top"><a href="#">
+                                          <i class="fas fa-envelope-square"></i>
+                                          </a>
+                                       </li>
+                                    </ul>
+                                    <!--post-meta-share-->
+                                 </div>
+                                 <!--post-meta-->
+                              </div>
+                              <p>Spear phishing is among the most dangerous cyberthreats - and the most difficult to detect. Not long ago, C-level executives were the sole target. Today, any person at any company is at risk of receiving targeted emails attempting to trick them into completing wire transfers, purchasing gift cards or fulfilling other financial requests.</p>
+                              <div class="blockquote">
+                                 <p>In this webinar, we'll show you step by step how hackers create personalized spear phishing attacks. Discover how hackers identify and research targets, how they compromise email accounts from which to send their attacks, and how they leverage social engineering techniques to pressure recipients into taking immediate action.</p>
+                              </div>
+                              <h2>Gain insight into:</h2>
+                              <p>
+                                 <ul>
+                                    <li>Spear phishing's rapid growth and how a successful attack could impact your business;</li>
+                                    <li>A step-by-step demonstration of how hackers create spear phishing emails;</li>
+                                    <li>Practical recommendations to protect your business from this growing threat;</li>
+                                 </ul>
+                              </p>
+                              <!--post-item-description-->
+                           </div>
+                           <div class="post-tags">
+                              <a href="#">Cybersecurity</a>
+                              <a href="#">Tech</a>
+                              <a href="#">IT</a>
+                              <!--post-tags-->
+                           </div>
+                           <div class="post-navigation">
+                              <a href="#" class="post-prev">
+                                 <div class="post-prev-title"><span>Previous Post</span></div>
+                              </a>
+                              <a href="#" class="post-next">
+                                 <div class="post-next-title"><span>Next Post</span></div>
+                              </a>
+                              <!--post-navigation-->
+                           </div>
+                           <div class="comments" id="comments">
+                              <div class="comment_number text-uppercase font_weight_600">
+                                 Comments <span>(2)</span>
+                                 <!--comment_number-->
+                              </div>
+                              <div class="comment-list">
+                                 <div class="comment" id="comment-1">
+                                    <div class="image" data-aos="flip-left"><img alt="" src="assets/image/review2.jpg" class="avatar"></div>
+                                    <div class="text">
+                                       <h5 class="name font_weight_700">Thomas</h5>
+                                       <span class="comment_date">Posted at 15:32h, 11 August</span>
+                                       <a class="comment-reply-link" href="#">Reply</a>
+                                       <div class="text_holder">
+                                          <p>This is a detailed and very insightful post. The importance of understanding how phishing attack works cannot be underestimated.</p>
+                                          <!--text_holder-->
+                                       </div>
+                                       <!--text-->
+                                    </div>
+                                    <!--comment-->
+                                 </div>
+                                 <!--comment-list-->
+                              </div>
+                              <!--comments-->
+                           </div>
+                           <div class="respond-form" id="respond">
+                              <div class="respond-comment text-uppercase font_weight_600">
+                                 Leave a <span>Comment</span>
+                                 <!--respond-comment-->
+                              </div>
+                              <form class="form-gray-fields">
+                                 <div class="row">
+                                    <div class="col-lg-4">
+                                       <div class="form-group">
+                                          <label class="upper font_weight_600" for="name">Name</label>
+                                          <input class="form-control required" name="senderName" placeholder="Enter name" id="name" aria-required="true" type="text">
+                                          <!--form-group-->
+                                       </div>
+                                       <!--col-->
+                                    </div>
+                                    <div class="col-lg-4">
+                                       <div class="form-group">
+                                          <label class="upper font_weight_600" for="email">Email</label>
+                                          <input class="form-control required email" name="senderEmail" placeholder="Enter email" id="email" aria-required="true" type="email">
+                                          <!--form-group-->
+                                       </div>
+                                       <!--col-->
+                                    </div>
+                                    <div class="col-lg-4">
+                                       <div class="form-group">
+                                          <label class="upper font_weight_600" for="website">Website</label>
+                                          <input class="form-control website" name="senderWebsite" placeholder="Enter Website" id="website" aria-required="false" type="text">
+                                          <!--form-group-->
+                                       </div>
+                                       <!--col-->
+                                    </div>
+                                    <!--row-->
+                                 </div>
+                                 <div class="row">
+                                    <div class="col-lg-12">
+                                       <div class="form-group">
+                                          <label class="upper font_weight_600" for="comment">Your comment</label>
+                                          <textarea class="form-control required" name="comment" rows="9" placeholder="Enter comment" id="comment" aria-required="true"></textarea>
+                                          <!--form-group-->
+                                       </div>
+                                       <!--col-->
+                                    </div>
+                                    <!--row-->
+                                 </div>
+                                 <div class="row">
+                                    <div class="col-lg-12">
+                                       <div class="form-group text-center">
+                                          <button class="btn font_weight_600" type="submit">Submit Comment</button>
+                                          <!--form-group-->
+                                       </div>
+                                       <!--col-->
+                                    </div>
+                                    <!--row-->
+                                 </div>
+                                 <!--form-gray-fields-->
+                              </form>
+                              <!--respond-form-->
+                           </div>
+                           <!--post-item-wrap-->
+                        </div>
+                        <!--post-item-->
+                     </div>
+                     <!--single-post01-->
+                  </div>
+                  <!--col-->
+               </div>
+               <div class="sidebar sticky-sidebar col-lg-3">
+                  <div class="theiaStickySidebar">
+                     <div class="widget widget-newsletter">
+                        <form id="widget-search-form-sidebar" class="form-inline">
+                           <div class="input-group">
+                              <input type="text" aria-required="true" name="q" class="form-control widget-search-form" placeholder="Search for pages...">
+                              <div class="input-group-append">
+                                 <span class="input-group-btn">
+                                 <button type="submit" id="widget-widget-search-form-button" class="btn"><i class="fa fa-search"></i></button>
+                                 </span>
+                                 <!--input-group-append-->
+                              </div>
+                              <!--input-group-->
+                           </div>
+                           <!--form-inline-->
+                        </form>
+                        <!--widget-->
+                     </div>
+                     <div class="widget">
+                        <div class="tabs">
+                           <ul class="nav nav-tabs" id="tabs-posts" role="tablist">
+                              <li class="nav-item p-0">
+                                 <a class="nav-link active" id="home-tab" data-toggle="tab" href="#popular" role="tab" aria-controls="popular" aria-selected="true">Popular</a>
+                              </li>
+                              <li class="nav-item p-0">
+                                 <a class="nav-link" id="profile-tab" data-toggle="tab" href="#featured" role="tab" aria-controls="featured" aria-selected="false">Featured</a>
+                              </li>
+                              <li class="nav-item p-0">
+                                 <a class="nav-link" id="contact-tab" data-toggle="tab" href="#recent" role="tab" aria-controls="recent" aria-selected="false">Recent</a>
+                              </li>
+                              <!--nav-tabs-->
+                           </ul>
+                           <div class="tab-content" id="tabs-posts-content">
+                              <div class="tab-pane fade show active" id="popular" role="tabpanel">
+                                 <div class="post-thumbnail-list">
+                                    <div class="post-thumbnail-entry">
+                                       <img data-aos="fade-up" alt="" src="assets/image/side_post_img01.jpg">
+                                       <div class="post-thumbnail-content">
+                                          <a href="#">Understanding Cloud Computing Vulnerabilities</a>
+                                          <span class="post-date"><i class="far fa-clock"></i> 6m ago</span>
+                                          <span class="post-category"><i class="fa fa-tag"></i> Cybersecurity</span>
+                                          <!--post-thumbnail-content-->
+                                       </div>
+                                       <!--post-thumbnail-entry-->
+                                    </div>
+                                    <div class="post-thumbnail-entry">
+                                       <img data-aos="fade-up" alt="" src="assets/image/side_post_img02.jpg">
+                                       <div class="post-thumbnail-content">
+                                          <a href="#">What is Phishing?</a>
+                                          <span class="post-date"><i class="far fa-clock"></i> 24h ago</span>
+                                          <span class="post-category"><i class="fa fa-tag"></i> Cybersecurity</span>
+                                          <!--post-thumbnail-content-->
+                                       </div>
+                                       <!--post-thumbnail-entry-->
+                                    </div>
+                                 </div>
+                                 <!--tab-pane-->
+                              </div>
+                              <div class="tab-pane fade" id="featured" role="tabpanel">
+                                 <div class="post-thumbnail-list">
+                                    <div class="post-thumbnail-entry">
+                                       <img data-aos="fade-up" alt="" src="assets/image/side_post_img03.jpg">
+                                       <div class="post-thumbnail-content">
+                                          <a href="#">Understanding Cloud Computing Vulnerabilities</a>
+                                          <span class="post-date"><i class="far fa-clock"></i> 24h ago</span>
+                                          <span class="post-category"><i class="fa fa-tag"></i> Cybersecurity</span>
+                                          <!--post-thumbnail-content-->
+                                       </div>
+                                       <!--post-thumbnail-entry-->
+                                    </div>
+                                    <div class="post-thumbnail-entry">
+                                       <img data-aos="fade-up" alt="" src="assets/image/side_post_img02.jpg">
+                                       <div class="post-thumbnail-content">
+                                          <a href="#">What is Phishing?</a>
+                                          <span class="post-date"><i class="far fa-clock"></i> 11h ago</span>
+                                          <span class="post-category"><i class="fa fa-tag"></i> Cybersecurity</span>
+                                          <!--post-thumbnail-content-->
+                                       </div>
+                                       <!--post-thumbnail-entry-->
+                                    </div>
+                                 </div>
+                                 <!--tab-pane-->
+                              </div>
+                              <div class="tab-pane fade" id="recent" role="tabpanel">
+                                 <div class="post-thumbnail-list">
+                                    <div class="post-thumbnail-entry">
+                                       <img data-aos="fade-up" alt="" src="assets/image/side_post_img02.jpg">
+                                       <div class="post-thumbnail-content">
+                                          <a href="#">Understanding Cloud Computing Vulnerabilities</a>
+                                          <span class="post-date"><i class="far fa-clock"></i> 11h ago</span>
+                                          <span class="post-category"><i class="fa fa-tag"></i> Cybersecurity</span>
+                                          <!--post-thumbnail-content-->
+                                       </div>
+                                       <!--post-thumbnail-entry-->
+                                    </div>
+                                    <div class="post-thumbnail-entry">
+                                       <img data-aos="fade-up" alt="" src="assets/image/side_post_img01.jpg">
+                                       <div class="post-thumbnail-content">
+                                          <a href="#">What is Phishing?</a>
+                                          <span class="post-date"><i class="far fa-clock"></i> 11h ago</span>
+                                          <span class="post-category"><i class="fa fa-tag"></i> Cybersecurity</span>
+                                          <!--post-thumbnail-content-->
+                                       </div>
+                                       <!--post-thumbnail-entry-->
+                                    </div>
+                                 </div>
+                                 <!--tab-pane-->
+                              </div>
+                              <!--tab-content-->
+                           </div>
+                           <!--tabs-->
+                        </div>
+                        <!--widget-->
+                     </div>
+                     <div class="widget widget-categories">
+                        <div class="widget-title font_weight_600">Categories</div>
+                        <ul>
+                           <li class="cat-item">
+                              <a href="#">Cybersecurity</a>
+                              <span class="cat-count-span">(2)</span>
+                           </li>
+                           <li class="cat-item">
+                              <a href="#">Infographics</a>
+                              <span class="cat-count-span">(10)</span>
+                           </li>
+                           <li class="cat-item">
+                              <a href="#">Tech</a>
+                              <span class="cat-count-span">(7)</span>
+                           </li>
+                           <li class="cat-item">
+                              <a href="#">IT</a>
+                              <span class="cat-count-span">(3)</span>
+                           </li>
+                        </ul>
+                     </div>
+                     <div class="widget widget-tweeter">
+                        <h4 class="widget-title font_weight_600">Recent Tweets</h4>
+                        <div id="twitter-cnt">
+                           <ul>
+                              <li>Understanding Cloud Computing Vulnerabilities
+                                 <a href="#" target="_blank" title="Visit this link">https://t.co/T9Vg7b9XuytI</a>
+                                 <small>Aug/12/2022</small>
+                              </li>
+                              <li>What is Phishing? <a href="#" target="_blank" title="Visit this link">https://t.co/yBb0HKieefvsksq</a>
+                                 <a href="https://t.co/kR5EhraUuK" target="_blank" title="Visit this link">https://t.co/kR5EhfsuheraUuK</a>
+                                 <small>Aug/13/2022</small>
+                              </li>
+                           </ul>
+                           <!--twitter-cnt-->
+                        </div>
+                        <!--widget-->
+                     </div>
+                     <div class="widget widget-tags">
+                        <h4 class="widget-title font_weight_600">Tags</h4>
+                        <div class="tags">
+                           <a href="#">Cybersecurity</a>
+                           <a href="#">Tech</a>
+                           <a href="#">IT</a>
+                           <!--tags-->
+                        </div>
+                        <!--widget-->
+                     </div>
+                     <!--theiaStickySidebar-->
+                  </div>
+                  <!--sidebar-->
+               </div>
+               <!--row-->
+            </div>
+         </div>
+         <!--container-->
+      </section>
+      <!-- weight-footer-section -->
+
+         <!-- Footer Section Start -->
+         <?php include("footer.php"); ?>
+         <!-- Footer Section End -->
+
+      <!-- weight-footer-section -->
+      <script src="assets/js/wow.js"></script>
+      <script>
+         new WOW().init();
+      </script>
+      <script src="assets/js/jquery-3.6.0.min.js"> </script>
+      <script src="assets/js/popper.min.js"> </script>
+      <script src="assets/js/bootstrap.min.js"> </script>
+   </body>
+</html>
